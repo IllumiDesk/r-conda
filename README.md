@@ -1,4 +1,4 @@
-# Rstudio w/ conda R
+# RStudio w/ conda R
 
 ## Test with Binder
 
