@@ -2,7 +2,7 @@
 
 ## Test with Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/illumidesk/r-conda/master?urlpath=rstudio)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/illumidesk/r-conda/main?urlpath=rstudio)
 
 ## Credits
 
